@@ -1,0 +1,1 @@
+'alcohol_amount','tobacco_amount','metformin','beta-blockers','ibuprofen','Docetaxel'
