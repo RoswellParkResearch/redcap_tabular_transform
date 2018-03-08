@@ -1,0 +1,10 @@
+{
+    'demographics_form': [
+        5,
+        'alcohol_amount','tobacco_amount'
+        ],
+	'drug_form': [
+		5,
+		'metformin','beta-blockers','ibuprofen','Docetaxel']
+   
+    }
