@@ -1,0 +1,21 @@
+{
+    'bmi_location_form': [5, 'age', 'city','county','height','weight'],
+    'comorbidities_form': [
+        5,
+        'cholesterol',
+        'diabetes',
+        'hbp'
+        ],
+    'symptom_form': [
+        5,
+        'fatigue',
+        'nausea',
+        'tiredness',
+        'vomiting'
+        ],
+    'demographics_form': [
+        5,
+        'gender',
+        'race'
+    ]
+}
